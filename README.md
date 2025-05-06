@@ -5,6 +5,4 @@
 - ⚡ Always thank your chatbots 😇
 
 
-I'm currently a sophomore at Schoolcraft College with a plan to get a bachelors in computer science. I am really interested in studying
-ML/AI and have goals of learning more about computer vision and LLMs. My goals for this school year is to build my first 
-AI vision project, learn SQL, and build upon my data science skills. Wish me luck!
+I’m a CS transfer student at the University of Michigan with a passion for combining math, code, and curiosity to solve real world problems. I’ve tutored students in calculus, statistics, and algebra, led my college's Math and Physics Club, and developed award-winning projects in AI—like an MRI tumor detection program using PyTorch. I’m constantly learning and building, with recent focuses on PyTorch, computer vision, and data visualization.
