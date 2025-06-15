@@ -1,7 +1,7 @@
 
 - 🔭 I code
 - 🌱 I’m currently learning PyTorch
-- 🤔 I’m looking for CS internships for Summer '25
+- 🤔 Did orange the color come first or the fruit?
 - ⚡ Always thank your chatbots 😇
 
 
