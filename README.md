@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/umseal.svg" width="200">
 </p>
-Howdy, I’m Sinclair 👋<br>
+Howdy, I’m Sinclair 👋
 
 
 Computer Science @ University of Michigan  
