@@ -1,9 +1,11 @@
-Hi, I’m Sinclair Hansen 👋  
+<img src="assets/umseal.svg" width="500">
+Howdy, I’m Sinclair 👋  
 Computer Science @ University of Michigan  
-Machine learning, healthcare, and applied AI
+Interested in: Machine learning, healthcare, and applied AI
 
-| [Portfolio](https://sinclairhansen.github.io/) |
+Here is my portfolio → | [Portfolio](https://sinclairhansen.github.io/) |
 
+Some of my favorite projects:
 
 🧠 Tumor Detection (ML)
 CNN-based medical imaging model with a detailed write-up covering model training, evaluation, and implications for predictive medicine.
