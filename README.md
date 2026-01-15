@@ -1,4 +1,6 @@
-<img src="assets/umseal.svg" width="500">
+<p align="center">
+  <img src="umseal.svg" width="200">
+</p>
 Howdy, I’m Sinclair 👋  
 Computer Science @ University of Michigan  
 Interested in: Machine learning, healthcare, and applied AI
