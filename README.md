@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="umseal.svg" width="200">
+  <img src="assets/umseal.svg" width="200">
 </p>
 Howdy, I’m Sinclair 👋  
 Computer Science @ University of Michigan  
