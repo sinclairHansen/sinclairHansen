@@ -3,6 +3,7 @@
 </p>
 Howdy, I’m Sinclair 👋<br>
 
+
 Computer Science @ University of Michigan  
 Interested in: Machine learning, healthcare, and applied AI  
 Here is my portfolio → | [Portfolio](https://sinclairhansen.github.io/) |
