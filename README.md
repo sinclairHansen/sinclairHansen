@@ -2,7 +2,7 @@ Hi, I’m Sinclair Hansen 👋
 Computer Science @ University of Michigan  
 Machine learning, healthcare, and applied AI
 
-| [Portfolio](sinclairhansen.github.io) |
+| [Portfolio](https://sinclairhansen.github.io/) |
 
 
 🧠 Tumor Detection (ML)
