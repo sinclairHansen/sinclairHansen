@@ -6,6 +6,7 @@ Howdy, I’m Sinclair 👋
 
 Computer Science @ University of Michigan  
 Interested in: Machine learning + healthcare 
+
 Here is my portfolio → | [Portfolio](https://sinclairhansen.github.io/) |
 
 Some of my favorite projects:
